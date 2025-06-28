@@ -1,0 +1,3 @@
+Run this in environment:
+
+pip install numpy pygame torch pandas imageio matplotlib
